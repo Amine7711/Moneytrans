@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-
 import plotly.express as px
+print("plotly")
 # إعداد الصفحة
 st.set_page_config(page_title="📊 تتبع السيولة", layout="wide")
 # ضبط اتجاه النصوص
